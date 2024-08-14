@@ -1,0 +1,13 @@
+.carousel-item img {
+      max-height: 400px;
+      object-fit: cover;
+    }
+    footer {
+      background-color: #343a40;
+      color: white;
+      padding-top: 10px;
+    }
+    footer a {
+      color: white;
+      text-decoration: none;
+    }
